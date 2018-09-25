@@ -1,1 +1,1 @@
-# docker-with-hadoop-hbase
+# Dockerfile diy
